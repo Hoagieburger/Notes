@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ModArrays
+comment0.text=\r\n\ Well\ documented\ (atleast\ for\ me)\ notes\ on\ modifying\ arrays.\r\n\r\n\ @author\ Joshua\ Hergenroeder\r\n\ @version\ 18\ January\ 2018\r\n
+comment1.params=
+comment1.target=ModArrays()
+comment2.params=
+comment2.target=void\ printArray()
+comment3.params=num\ index
+comment3.target=void\ changeNum(int,\ int)
+comment4.params=index
+comment4.target=void\ remove(int)
+comment5.params=num\ index
+comment5.target=void\ addNum(int,\ int)
+numComments=6
