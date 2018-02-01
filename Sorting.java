@@ -1,5 +1,5 @@
 /**
- * Write a description of class list here.
+ * Methods for sorting including bubble sort, insertion sort, and selection sort.
  *
  * @author Joshua Hergenroeder
  * @version 25 January 2018
@@ -24,7 +24,7 @@ public class Sorting
         for (int i = 1; i < list.length; i++){
             pos = i;
             holder = list[i];
-            while ((holder < list[pos - 1]) && (pos > 0)){
+            while (pos > 0 && holder < list[pos - 1]){
                 pos--;
             }
             for (int j = i; j > pos; j--){

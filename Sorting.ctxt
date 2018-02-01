@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Sorting
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ list\ here.\r\n\r\n\ @author\ Joshua\ Hergenroeder\r\n\ @version\ 25\ January\ 2018\r\n
+comment0.text=\r\n\ Methods\ for\ sorting\ including\ bubble\ sort,\ insertion\ sort,\ and\ selection\ sort.\r\n\r\n\ @author\ Joshua\ Hergenroeder\r\n\ @version\ 25\ January\ 2018\r\n
 comment1.params=
 comment1.target=void\ bubbleSort()
 comment2.params=

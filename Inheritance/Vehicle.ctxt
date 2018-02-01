@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ \r\n\ \r\n\ \r\n\ \r\n
+comment1.params=seats\ speed\ name
+comment1.target=Vehicle(int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=void\ moveForward()
+numComments=3
